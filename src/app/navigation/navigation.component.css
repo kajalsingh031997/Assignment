@@ -1,0 +1,30 @@
+.header-section{
+    align-items: center;
+}
+.join-div{
+    text-align: right;
+}
+
+@media (max-width: 767px){
+    .join-div{
+        text-align: center;
+        margin-bottom: 1em;
+    }
+}
+.join-btn{
+    border-radius: 20px;
+    width: 35%;
+}
+.navbar {
+    flex-wrap: initial !important;
+}
+.input-radius{
+    border-color: #3180e2;
+    border-radius: 0;
+}
+.search-icon {
+    color: #fff;
+    background-color: #3180e2;
+    border-color: #3180e2;
+    border-radius: 0;
+}

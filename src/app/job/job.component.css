@@ -1,0 +1,13 @@
+.job-container-height{
+    height: 565px;
+}
+
+.job-p-tag{
+    text-align: center;
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    font-size: 22px;
+    font-weight: bold;
+}
